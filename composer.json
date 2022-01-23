@@ -1,5 +1,5 @@
 {
-    "name": "ttchristournaire/oauth2-php",
+    "name": "friendsofsymfony_ttfork/oauth2-php",
     "type": "library",
     "description": "OAuth2 library",
     "license": "MIT",
